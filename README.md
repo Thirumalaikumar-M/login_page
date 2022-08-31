@@ -4,13 +4,13 @@ This is the development of login page for a website. It is completely responsive
 
 ## TABLE OF CONTENTS ##
 
-- [WHY I CREATED THIS PROJECT](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#why-i-created-this-project)
-- [PROJECT DESCRIPTION](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#project-description)
-- [LANGUAGES USED](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#languages-used)
-- [KEY-FEATURES](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#key-features)
-- [SCREEN SHOTS AND RECORD](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#screen-shots-and-record)
-- [NOTES](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#notes)
-- [LICENSE](https://github.com/Thirumalaikumar-M/login_page/new/main?readme=1#license)
+- [WHY I CREATED THIS PROJECT](https://github.com/Thirumalaikumar-M/login_page/tree/main#why-i-created-this-project)
+- [PROJECT DESCRIPTION](https://github.com/Thirumalaikumar-M/login_page/tree/main#project-description)
+- [LANGUAGES USED](https://github.com/Thirumalaikumar-M/login_page/tree/main#languages-used)
+- [KEY-FEATURES](https://github.com/Thirumalaikumar-M/login_page/tree/main#key-features)
+- [SCREEN SHOTS AND RECORD](https://github.com/Thirumalaikumar-M/login_page/tree/main#screen-shots-and-record)
+- [NOTES](https://github.com/Thirumalaikumar-M/login_page/tree/main#notes)
+- [LICENSE](https://github.com/Thirumalaikumar-M/login_page/tree/main#license)
 
 ## WHY I CREATED THIS PROJECT ##
 
